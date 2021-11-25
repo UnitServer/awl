@@ -1,0 +1,14 @@
+{
+  "name": "awl",
+  "version": "1.0.0",
+  "description": "meme bot",
+  "main": "awl.js",
+  "scripts": {
+    "test": "node awl.js"
+  },
+  "author": "Zvbhrf",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
